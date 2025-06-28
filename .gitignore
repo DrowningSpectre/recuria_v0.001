@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+
+
+# Model files
+models/
+*.h5
+
+# Dataset files
+*.npz
+
+# VSCode
+.vscode/
