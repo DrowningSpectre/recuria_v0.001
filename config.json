@@ -10,4 +10,5 @@
     "validation_split": 0.1,
     "batch_size": 32
   }
+
 }

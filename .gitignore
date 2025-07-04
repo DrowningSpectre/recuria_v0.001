@@ -13,3 +13,8 @@ models/
 
 # VSCode
 .vscode/
+
+recuria/archive/
+base/
+data/recuria_analysis.txt
+data/recuria_results.txt
